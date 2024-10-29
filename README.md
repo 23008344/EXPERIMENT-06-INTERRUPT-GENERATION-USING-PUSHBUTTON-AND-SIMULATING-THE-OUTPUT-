@@ -92,6 +92,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
   
 
 ## STM 32 CUBE PROGRAM :
+```
 
 /* USER CODE BEGIN Header */
 /**
@@ -318,7 +319,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif /* USE_FULL_ASSERT */
 
 
-
+```
 ## Output screen shots of proteus  :
 
  ![Screenshot 2024-10-29 091451](https://github.com/user-attachments/assets/56850577-45bd-4512-8f65-a9779180709e)
